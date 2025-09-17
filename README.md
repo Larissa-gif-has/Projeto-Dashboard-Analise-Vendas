@@ -24,5 +24,6 @@ Os dados foram consolidados em **tabelas dinâmicas**, permitindo análises por 
 
 ## 🚀 Resultado
 O dashboard transforma dados brutos em **insights estratégicos**, oferecendo uma visão clara e visual para apoiar tanto estudos acadêmicos quanto aplicações no ambiente empresarial.  
-Como acessar a Planilha:
-- Clicar no nome do projeto "Projeto Dashboard.xlsx em seguida clicar em "Ver bruto" assim o arquivo será baicado para visualização 
+
+## 📂 Como acessar a Planilha:
+- Clicar no nome do projeto "Projeto Dashboard.xlsx" em seguida clicar em "Ver bruto" assim o arquivo será baixado para visualização 
